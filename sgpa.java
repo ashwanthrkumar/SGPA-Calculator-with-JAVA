@@ -38,6 +38,7 @@ public class sgpa
             System.out.print(sub[i]+": ");
             marks[i]=ob.nextInt();
         }
+        
         for(int i=0;i<subno;i++)
         {
             if(marks[i]>=90)
