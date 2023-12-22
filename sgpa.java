@@ -77,7 +77,6 @@ public class sgpa
         }
         System.out.println("==============================================");
         System.out.println("=============Your Report Card=================");
-        System.out.println("==============================================");
         System.out.println("Name: "+name);
         System.out.println("USN: "+usn);
         System.out.println("==============================================");
